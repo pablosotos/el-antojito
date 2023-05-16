@@ -1,0 +1,25 @@
+{
+  "name": "el-antojito",
+  "version": "1.0.0",
+  "description": "Web application for El Antojito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablosotos/el-antojito.git"
+  },
+  "author": "Pablo Sotos Carazo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablosotos/el-antojito/issues"
+  },
+  "homepage": "https://github.com/pablosotos/el-antojito#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
