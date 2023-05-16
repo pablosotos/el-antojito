@@ -1,4 +1,5 @@
 import React from 'react';
+import logo from '../images/logo-black-white.png';
 
 const Header = () => {
   return (
@@ -11,6 +12,7 @@ const Header = () => {
           <li><a href="/contacto">Contacto</a></li>
         </ul>
       </nav>
+      <img src={logo} alt="Logo de El Antojito" />
       <h1>El Antojito</h1>
     </header>
   );
